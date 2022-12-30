@@ -5,7 +5,7 @@
 -🤓 Sou apaixonado por tecnologias!
 -📱 Gosto muito de Redes e Mobile
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lucasemanueldev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasemanueldev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemanueldev&layout=compact&langs_count=7&theme=synthwave"/>
