@@ -1,6 +1,6 @@
-### Olá eu sou o Lucas!😁
+### Olá eu sou o Lucas e estudo computação!!😁
 
-Oi eu sou o Lucas e estudo computação!
+
 
 <div align="left">
   <a href="https://github.com/lucasemanueldev">
