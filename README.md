@@ -1,9 +1,6 @@
 ### Olá eu sou o Lucas!😁
 
-
--😎 Tenho 19 anos e estou estudando computação!
--🤓 Sou apaixonado por tecnologias!
--📱 Gosto muito de Redes e Mobile
+Oi eu sou o Lucas e estudo computação!
 
 <div align="left">
   <a href="https://github.com/lucasemanueldev">
