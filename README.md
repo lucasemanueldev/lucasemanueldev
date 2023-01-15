@@ -11,7 +11,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-dragon-ball-1.gif](https://media.discordapp.net/attachments/1060390048777904210/1064268869922992248/Lucas.xz6_programmer_nerd_8825fa95-eb88-4ff7-a6de-34cc21fc643b.png?width=701&height=701)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="(https://media.discordapp.net/attachments/1060390048777904210/1064268869922992248/Lucas.xz6_programmer_nerd_8825fa95-eb88-4ff7-a6de-34cc21fc643b.png?width=701&height=701)">
 </div>
 
 <div> 
