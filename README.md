@@ -44,8 +44,7 @@ Estudo computção a 1 ano e meio, sou formado em Técnico em Redes de Computado
 ### ✍️ Citação aleatória
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=lucasemanueldev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <div> 
  
