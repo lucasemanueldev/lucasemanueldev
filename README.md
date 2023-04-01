@@ -4,10 +4,10 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Sou estudante de computação em uma jornada de estudos rumo ao infinito
 ----------------------------------------------------------------------
 
-Estudo computação a 1 ano e meio, sou formado em Técnico em Redes de Computadores.já trabalhei em provedores de internet, atuei como assistente de TI e instrutor de informática.
+Estudo computção a 1 ano e meio, sou formado em Técnico em Redes de Computadores.já trabalhei em provedores de internet, atuei como assistente de TI e instrutor de informática.
 
 * 🌍  Eu moro no Brasil 🇧🇷
-* 🧠  Estou estudando Web Design, Mobile e Backend
+* 🧠  Me interesso e estou estudando Web Design, Mobile e Backend
 
 ### Algumas Skills que já domino e outras que estou apredendo
 
@@ -43,8 +43,6 @@ Estudo computação a 1 ano e meio, sou formado em Técnico em Redes de Computad
 
 ### ✍️ Citação aleatória
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 <div> 
  
